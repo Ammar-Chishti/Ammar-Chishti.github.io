@@ -18,11 +18,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Site Title"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Ammar Chishti"
+description              : "A website about Ammar Chishti"
+url                      : "https://Ammar-Chishti.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "Ammar-Chishti/Ammar-Chishti.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -95,23 +95,23 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-131912499-1"
     anonymize_ip         : # true, false (default)
 
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Ammar Chishti"
+  avatar           : "/assets/images/AmmarProfile.jpg"
+  bio              : "Story lover, runner, and computer science major at Stony Brook '21"
+  location         : "Stony Brook, NY"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: ammar.chishti@stonybrook.edu
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -121,9 +121,12 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.linkedin.com/in/ammar-chishti-62a103140"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/Ammar-Chishti"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -139,10 +142,13 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/Ammar-Chishti"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://www.linkedin.com/in/ammar-chishti-62a103140"
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
