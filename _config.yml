@@ -122,7 +122,7 @@ author:
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "Linkedin"
-      icon: "fab fa-fw fa-facebook-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/ammar-chishti-62a103140"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -147,7 +147,7 @@ footer:
       icon: "fab fa-fw fa-gitlab"
       # url:
     - label: "Linkedin"
-      icon: "fab fa-fw fa-facebook-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/ammar-chishti-62a103140"
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
