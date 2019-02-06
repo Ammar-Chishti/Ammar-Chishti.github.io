@@ -1,5 +1,5 @@
 ---
-title: "AmmarChishti.com"
+title: "About the Website"
 layout: single
 permalink: /About the Website/
 author_profile: true
