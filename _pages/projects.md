@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 layout: single
-permalink: /projects/
+permalink: /projects.html/
 author_profile: true
 comments: false
 ---
