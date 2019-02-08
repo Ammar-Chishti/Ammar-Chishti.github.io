@@ -1,7 +1,7 @@
 ---
 title: "About the Website"
 layout: single
-permalink: /about the website/
+permalink: /about-the-website.html/
 author_profile: true
 comments: false
 classes: wide
