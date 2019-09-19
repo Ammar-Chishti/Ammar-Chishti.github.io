@@ -16,7 +16,7 @@ comments: false
             </a>
         <span>
           This was a Front-End web application I created to help me
-          keep track of my financial transactions
+          keep track of my financial transactions using the React.js Material UI Framework
         </span>
       </p>
       <br>
