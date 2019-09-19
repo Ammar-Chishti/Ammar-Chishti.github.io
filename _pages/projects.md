@@ -10,7 +10,7 @@ comments: false
 <html>
     <div class="projects">
       <p>
-        <h3> Account Manager Web ApplicationAc </h3>
+        <h3> Account Manager Web Application </h3>
             <a href="https://github.com/Ammar-Chishti/AccountManager" target="_blank">
             <img src="https://github.com/Ammar-Chishti/Ammar-Chishti.github.io/blob/master/assets/images/AccountManager.png"/>
             </a>
