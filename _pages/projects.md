@@ -12,7 +12,7 @@ comments: false
       <p>
         <h3> Account Manager Web ApplicationAc </h3>
             <a href="https://github.com/Ammar-Chishti/AccountManager" target="_blank">
-            <img src="/assets/images/AccountManager.png"/>
+            <img src="https://github.com/Ammar-Chishti/Ammar-Chishti.github.io/blob/master/assets/images/AccountManager.png"/>
             </a>
         <span>
           This was a Front-End web application I created to help me
@@ -36,7 +36,7 @@ comments: false
       <p>
         <h3> Personal Website Version 2 </h3>
         <a href="https://github.com/Ammar-Chishti/PersonalSite2" target="_blank">
-        <img src="/assets/images/PersonalWebsite2.png"/>
+        <img src="https://github.com/Ammar-Chishti/Ammar-Chishti.github.io/blob/master/assets/images/PersonalWebsite2.png"/>
         </a>
         <span>
           This was a static website I created using HTML, CSS, and JavaScript to help
