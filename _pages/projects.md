@@ -11,7 +11,7 @@ comments: false
     <div class="projects">
       <p>
         <h3>Todolist Manager Web Application in React</h3>
-        <a href="https://github.com/Ammar-Chishti/CSE-316-HW-2">
+        <a href="https://github.com/Ammar-Chishti/CSE-316-HW-2" target="_blank">
         <img src="../assets/images/ReactTodoList.png"/>
         </a>
         <span>
