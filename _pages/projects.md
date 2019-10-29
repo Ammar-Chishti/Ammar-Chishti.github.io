@@ -10,13 +10,24 @@ comments: false
 <html>
     <div class="projects">
       <p>
+        <h3>Todolist Manager Web Application in React</h3>
+        <a href="https://github.com/Ammar-Chishti/CSE-316-HW-2">
+        <img src="../assets/images/ReactTodoList.png"/>
+        </a>
+        <span>
+          This was a Todolist manager I created for a class project. In addition to its core functionality,
+          the project features undo and redo capabilities through the implementation of a
+          Transaction Processing System
+        </span>
+      </p>
+      <p>
         <h3> Account Manager Web Application </h3>
             <a href="https://github.com/Ammar-Chishti/AccountManager" target="_blank">
             <img src="../assets/images/AccountManager.png"/>
             </a>
         <span>
           This was a Front-End web application I created to help me
-          keep track of my financial transactions using the React.js Material UI Framework
+          keep track of my financial transactions
         </span>
       </p>
       <br>
