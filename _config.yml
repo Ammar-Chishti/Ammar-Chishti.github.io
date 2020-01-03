@@ -105,9 +105,9 @@ analytics:
 author:
   name             : "Ammar Chishti"
   avatar           : "/assets/images/AmmarProfile.jpg"
-  bio              : "Story lover, runner, and computer science major at Stony Brook '21"
+  bio              : "Story Lover, Runner, and Computer Science major at Stony Brook '21"
   location         : "Stony Brook, NY"
-  email            : 
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
