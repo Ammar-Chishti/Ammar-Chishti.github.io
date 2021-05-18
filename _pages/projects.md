@@ -10,13 +10,23 @@ comments: false
 <html>
     <div class="projects">
       <p>
+        <h3>MAster-Student-Tracking</h3>
+            <a href="https://github.com/Ammar-Chishti/MAster-Student-Tracking" target="_blank">
+            <img src="../assets/images/MAST.png"/>
+            </a>
+
+        <span>
+         MAST is a full stack web application that helps M.S. students and graduate program directors (GPDs) determine whether students are on track to satisfy degree requirements for their respective major by their planned graduation date
+        </span>
+      </p>
+      <p>
         <h3>Wireframer Web Application</h3>
-            <a href="google.com" target="_blank">
+            <a href="https://github.com/Ammar-Chishti/Wireframer-Web-Application" target="_blank">
             <img src="../assets/images/Wireframer.png"/>
             </a>
         <span>
-         This was a web application I created, using React.js and Firebase, that allowed registered users to
-         create and save their own wireframes (website mockups).
+         Wireframer is a web application I created using React.js and Firebase that allows registered users to
+         create and save their own wireframes (website mockups)
         </span>
       </p>
       <p>
@@ -25,7 +35,7 @@ comments: false
         <img src="../assets/images/ReactTodoList.png"/>
         </a>
         <span>
-          This was a Todolist manager I created for a class project. In addition to its core functionality,
+          This is a Todolist manager I created for a class project. In addition to its core functionality,
           the project features undo and redo capabilities through the implementation of a
           Transaction Processing System
         </span>
@@ -36,7 +46,7 @@ comments: false
         <img src="https://www.bing.com/s/rw/lc/BingRewardslogo2.jpg"/>
         </a>
         <span>
-          This was a python script as well as an IOS application I developed to help automate 
+          This is a python script as well as an IOS application I developed to help automate 
           Bing Rewards searches for multiple Microsoft accounts
         </span>
       </p>
@@ -48,7 +58,7 @@ comments: false
         <img src="../assets/images/PersonalWebsite2.png"/>
         </a>
         <span>
-          This was a static website I created using HTML, CSS, and JavaScript to help
+          This is a static website I created using HTML, CSS, and JavaScript to help
           sharpen my web development skills 
         </span>
       </p> 

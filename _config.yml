@@ -105,13 +105,13 @@ analytics:
 author:
   name             : "Ammar Chishti"
   avatar           : "/assets/images/AmmarProfile.jpg"
-  bio              : "Story Lover, Runner, and Computer Science major at Stony Brook '21"
+  bio              : "Computer Science major at Stony Brook University '21"
   location         : "Stony Brook, NY"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: ammar.chishti@stonybrook.edu
+      url: "achishti@cs.stonybrook.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -123,7 +123,7 @@ author:
       # url: "https://facebook.com/"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/ammar-chishti-62a103140"
+      url: "https://www.linkedin.com/in/ammarchishti"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Ammar-Chishti"

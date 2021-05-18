@@ -5,6 +5,7 @@ permalink: /about-the-website.html/
 author_profile: true
 comments: false
 classes: wide
+published: true
 header:
   image: assets/images/Board.jpg
 ---
