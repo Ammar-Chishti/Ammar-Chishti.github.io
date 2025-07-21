@@ -105,13 +105,13 @@ analytics:
 author:
   name             : "Ammar Chishti"
   avatar           : "/assets/images/Ammar.png"
-  bio              : "Computer Science major at Stony Brook University '21"
-  location         : "Stony Brook, NY"
+  bio              : "Software Engineer"
+  location         : "New York, NY"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "achishti@cs.stonybrook.edu"
+      url: "ammarchishti80@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"

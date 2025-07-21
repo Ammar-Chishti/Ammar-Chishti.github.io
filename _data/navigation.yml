@@ -2,8 +2,8 @@
 main:
   - title: "Projects"
     url: /projects.html/
-  - title: "About the Website"
-    url: /about-the-website.html/
+  # - title: "About the Website"
+  #   url: /about-the-website.html/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
